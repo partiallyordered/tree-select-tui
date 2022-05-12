@@ -8,8 +8,8 @@ rustPlatform.buildRustPackage {
   # };
 
 
-  # cargoSha256 = lib.fakeSha256;
-  cargoHash = "sha256-A54R/LXAAsLmfmsA8+l/NAbMzLX7JXl6EheHB2T0erc=";
+  cargoSha256 = lib.fakeSha256;
+  # cargoHash = "";
 
   src = ./.;
 }
