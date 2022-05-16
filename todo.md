@@ -3,3 +3,4 @@
 - Default file to search for in the current working directory. Perhaps .treesel? Or whatever I end up calling it...
 - Come up with a name 
 - serde_json: use a subset of serde_json::Value
+- consider supporting s expressions
