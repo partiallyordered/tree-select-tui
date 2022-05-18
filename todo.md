@@ -4,3 +4,4 @@
 - Come up with a name 
 - serde_json: use a subset of serde_json::Value
 - consider supporting s expressions
+- Debian package: https://www.reddit.com/r/rust/comments/ursdqx/have_you_guys_tried_cargodeb_amazing/
